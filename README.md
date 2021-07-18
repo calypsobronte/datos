@@ -37,9 +37,9 @@ $ yarn install
 $ yarn start
 ```
 
-4. Puede abrir postman e ingresar los datos con la siguiente endpoint  `http://localhost:5000/api/init` para saber que si esta corriendo el servidor correctamente.
+4. Puede abrir postman e ingresar los datos con la siguiente endpoint  `http://localhost:5000/api/index` para saber que si esta corriendo el servidor correctamente.
 
-  > Nota: la base de datos del proyecto se llama `datos` esta se crea automaticamente y no contiene password
+  > Nota: la base de datos del proyecto se llama `datos`
 
 <br>
 <br>
